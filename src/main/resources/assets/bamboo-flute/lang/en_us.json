@@ -1,0 +1,9 @@
+{
+  "item.bamboo-flute.bamboo_flute": "Bamboo Flute",
+  "item.bamboo-flute.pan_flute": "Pan Flute",
+  "item.bamboo-flute.synth_flute": "Synth Flute",
+
+  "bamboo-flute.bamboo_blow": "Bamboo Flute Playing",
+  "bamboo-flute.pan_blow": "Pan Flute Playing",
+  "bamboo-flute.synth_blow": "Synth Flute Playing"
+}

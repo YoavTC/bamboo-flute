@@ -1,0 +1,110 @@
+{
+  "synth_hdo": {
+    "subtitle": "bamboo-flute.synth_blow",
+    "sounds": [
+      "bamboo-flute:synth_hdo"
+    ]
+  },
+  "synth_ti": {
+    "subtitle": "bamboo-flute.synth_blow",
+    "sounds": [
+      "bamboo-flute:synth_ti"
+    ]
+  },
+  "synth_la": {
+    "subtitle": "bamboo-flute.synth_blow",
+    "sounds": [
+      "bamboo-flute:synth_la"
+    ]
+  },
+
+  "synth_so": {
+    "subtitle": "bamboo-flute.synth_blow",
+    "sounds": [
+      "bamboo-flute:synth_so"
+    ]
+  },
+
+  "synth_fa": {
+    "subtitle": "bamboo-flute.synth_blow",
+    "sounds": [
+      "bamboo-flute:synth_fa"
+    ]
+  },
+  "synth_mi": {
+    "subtitle": "bamboo-flute.synth_blow",
+    "sounds": [
+      "bamboo-flute:synth_mi"
+    ]
+  },
+  "synth_re": {
+    "subtitle": "bamboo-flute.synth_blow",
+    "sounds": [
+      "bamboo-flute:synth_re"
+    ]
+  },
+
+  "synth_ldo": {
+    "subtitle": "bamboo-flute.synth_blow",
+    "sounds": [
+      "bamboo-flute:synth_ldo"
+    ]
+  },
+
+
+
+
+
+
+  "bamboo_hdo": {
+    "subtitle": "bamboo-flute.bamboo_blow",
+    "sounds": [
+      "bamboo-flute:bamboo_hdo"
+    ]
+  },
+  "bamboo_ti": {
+    "subtitle": "bamboo-flute.bamboo_blow",
+    "sounds": [
+      "bamboo-flute:bamboo_ti"
+    ]
+  },
+  "bamboo_la": {
+    "subtitle": "bamboo-flute.bamboo_blow",
+    "sounds": [
+      "bamboo-flute:bamboo_la"
+    ]
+  },
+
+  "bamboo_so": {
+    "subtitle": "bamboo-flute.bamboo_blow",
+    "sounds": [
+      "bamboo-flute:bamboo_so"
+    ]
+  },
+
+  "bamboo_fa": {
+    "subtitle": "bamboo-flute.bamboo_blow",
+    "sounds": [
+      "bamboo-flute:bamboo_fa"
+    ]
+  },
+  "bamboo_mi": {
+    "subtitle": "bamboo-flute.bamboo_blow",
+    "sounds": [
+      "bamboo-flute:bamboo_mi"
+    ]
+  },
+  "bamboo_re": {
+    "subtitle": "bamboo-flute.bamboo_blow",
+    "sounds": [
+      "bamboo-flute:bamboo_re"
+    ]
+  },
+
+  "bamboo_ldo": {
+    "subtitle": "bamboo-flute.bamboo_blow",
+    "sounds": [
+      "bamboo-flute:bamboo_ldo"
+    ]
+  }
+}
